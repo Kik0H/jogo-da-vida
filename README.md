@@ -18,8 +18,8 @@ O utilizador começa por desenhar um pattern inicial, e começa a simulação. P
 A cada tick, aplicam-se as regras de Conway:
 
 1. Uma célula viva com menos de 2 vizinhos vivos morre (isolamento).
-2. Uma célula viva com mais de 3 vizinhos vivos morre (sobrepopulação).
-3. Uma célula viva com 2 ou 3 vizinhos vivos mantém-se viva.
+2. Uma célula viva com 2 ou 3 vizinhos vivos mantém-se viva.
+3. Uma célula viva com mais de 3 vizinhos vivos morre (sobrepopulação).
 4. Uma célula morta com exatamente 3 vizinhos vivos nasce.
 
 ## Como executar
