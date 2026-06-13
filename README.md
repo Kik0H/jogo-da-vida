@@ -50,3 +50,4 @@ Isto ainda dá para melhorar, fica para outra sexta que não tenha nada que faze
 - Consequentemente, adicionar um slider para dar zoomOut/zoomIn
 - Adicionar um slider para controlar a velocidade da simulação.
 
+
